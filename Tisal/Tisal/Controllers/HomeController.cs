@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 
 namespace Tisal.Controllers
 {
@@ -10,7 +6,7 @@ namespace Tisal.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to Tisal 2";
+            ViewBag.Message = "Welcome to Tisal 22222";
 
             return View();
         }

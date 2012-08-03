@@ -10,7 +10,7 @@ namespace Tisal.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to Tisal";
+            ViewBag.Message = "Welcome to Tisal 2";
 
             return View();
         }
